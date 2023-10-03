@@ -1,0 +1,7 @@
+C:\Users\Maxim\OneDrive\Escritorio\.net\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Users\Maxim\OneDrive\Escritorio\.net\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\Maxim\OneDrive\Escritorio\.net\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\Maxim\OneDrive\Escritorio\.net\Poker\Poker\obj\Debug\Poker.csproj.AssemblyReference.cache
+C:\Users\Maxim\OneDrive\Escritorio\.net\Poker\Poker\obj\Debug\Poker.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\OneDrive\Escritorio\.net\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\Maxim\OneDrive\Escritorio\.net\Poker\Poker\obj\Debug\Poker.pdb
